@@ -1,0 +1,83 @@
+<<<<<<< HEAD
+=======
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\obj\Debug\DTO.pdb
+<<<<<<< HEAD
+=======
+C:\Users\DELL\Desktop\New folder (3)\QLQuanCafe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+<<<<<<< HEAD
+C:\Users\ASUS-PC\Desktop\DoAnNhom\QLQuanCafe\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS-PC\Desktop\DoAnNhom\QLQuanCafe\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS-PC\Desktop\DoAnNhom\QLQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\Desktop\DoAnNhom\QLQuanCafe\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS-PC\Desktop\DoAnNhom\QLQuanCafe\DTO\obj\Debug\DTO.pdb
+=======
+>>>>>>> 3559d59891222dee2850978d2a175a0865918ce2
+D:\Desktop\GitDoAn\QLQuanCafe\DTO\bin\Debug\DTO.dll
+D:\Desktop\GitDoAn\QLQuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Desktop\GitDoAn\QLQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Desktop\GitDoAn\QLQuanCafe\DTO\obj\Debug\DTO.dll
+D:\Desktop\GitDoAn\QLQuanCafe\DTO\obj\Debug\DTO.pdb
+>>>>>>> 34c5a8ecb923d3e8de5fab8277aeecd828c007b2
+>>>>>>> d87ad6287aa2d11f00defadc1326879aaa8d94ec
